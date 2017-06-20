@@ -1,0 +1,60 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    margin: 0px;
+}
+
+Header{
+    color: floralwhite;
+    background-image: url(images/navbg.jpg);
+    background-size: cover;
+    background-position:left;
+    height: 300px;
+}
+
+.headernav{
+    
+}
+
+.navlinks{
+    float: right;
+    margin-top: 17px;
+}
+
+.navlink{
+    padding: 3px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: floralwhite;
+}
+
+.logo{
+    float: left;
+    font-size: 1.5em;
+    font-weight: 100;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.headername{
+    color: black;
+    font-size: 3em;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.headerinfo{
+    margin-top: 5px;
+    color: black;
+    opacity: 0.7;
+    text-align: center;
+    font-size: 1em;
+}
+
+#namedivider{
+    color: black;
+    margin: 0px;
+    text-align: center;
+    font-size: 0.6em;
+    letter-spacing: -3px;
+}
